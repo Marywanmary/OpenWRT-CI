@@ -71,7 +71,7 @@ UPDATE_PACKAGE "qmodem" "FUjr/QModem" "main"
 UPDATE_PACKAGE "taskplan" "sirpdboy/luci-app-taskplan" "master"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "luci-app-timewol luci-app-wolplus"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
-UPDATE_PACKAGE "zram" "foundObjects/zram-swap" "master"
+#UPDATE_PACKAGE "zram" "foundObjects/zram-swap" "master"
 
 #更新软件包版本
 UPDATE_VERSION() {
